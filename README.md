@@ -157,3 +157,9 @@ Learn more about the power of Turborepo:
 - [Filtering](https://turborepo.dev/docs/crafting-your-repository/running-tasks#using-filters)
 - [Configuration Options](https://turborepo.dev/docs/reference/configuration)
 - [CLI Usage](https://turborepo.dev/docs/reference/command-line-reference)
+
+## RoadMap
+
+- Add Video Share feature from web cam
+- There should be option for colaborrative whiteboard or just a single user editable whiteboard
+- Add a chat option to chat between participants
